@@ -1,0 +1,13 @@
+{
+  "name": "ReactNativeJWTExample",
+  "displayName": "ReactNativeJWTExample",
+
+    "expo": {
+      "ios": {
+        "config": {
+          "usesNonExemptEncryption": false
+        }
+      }
+    }
+
+}
